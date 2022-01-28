@@ -2,6 +2,12 @@
 
 ## I am a beginner web developer
 
+### Recent projects
+* <a href="https://github.com/Gravedd/sChat">I'm currently working on a security chat project</a>
+* <a href="https://github.com/Gravedd/mycloud">Сloud storage</a>
+* <a href="https://github.com/Gravedd/Portfolio">My website - portfolio</a>
+
+
 ### Languages and Tools
 ![php](https://img.shields.io/badge/-PHP-black?style=for-the-bage&logo=php&logoColor=2d8dfe)
 ![LARAVEL](https://img.shields.io/badge/-Laravel-black?style=for-the-bage&logo=laravel&logoColor=ab4efe)
@@ -17,17 +23,3 @@
 
 
 
-<!--
-**Gravedd/Gravedd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
