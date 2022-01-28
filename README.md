@@ -2,7 +2,7 @@
 
 ## I am a beginner web developer
 
-###Languages and Tools
+### Languages and Tools
 ![php](https://img.shields.io/badge/-PHP-black?style=for-the-bage&logo=php&logoColor=2d8dfe)
 ![LARAVEL](https://img.shields.io/badge/-Laravel-black?style=for-the-bage&logo=laravel&logoColor=ab4efe)
 ![JS](https://img.shields.io/badge/-JavaScript-black?style=for-the-bage&logo=javascript&logoColor=4580fe)
@@ -10,7 +10,7 @@
 ![PhpStorm](https://img.shields.io/badge/-PhpStorm-black?style=for-the-bage&logo=phpstorm&logoColor=af4aff)
 ![Git](https://img.shields.io/badge/-Git-black?style=for-the-bage&logo=git&logoColor=b548ff)
 
-###Сontact me
+### Сontact me
 [![VK](https://img.shields.io/badge/-PHP-black?style=for-the-bage&logo=vk&logoColor=2d8dfe)](https://vk.com/Graveddd)
 
 
