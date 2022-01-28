@@ -20,6 +20,3 @@
 [![VK](https://img.shields.io/badge/-Vk-black?style=for-the-bage&logo=vk&logoColor=2059e8)](https://vk.com/Graveddd)
 [![Instagram](https://img.shields.io/badge/-Instagram-black?style=for-the-bage&logo=instagram&logoColor=fc0a63)](https://www.instagram.com/gravedddd/)
 [![Telegram](https://img.shields.io/badge/-Telegram-black?style=for-the-bage&logo=Telegram)](https://t.me/Graveddd)
-
-
-
