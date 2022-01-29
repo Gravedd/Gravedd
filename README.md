@@ -4,6 +4,7 @@
 
 ### Recent projects
 * <a href="https://github.com/Gravedd/sChat">I'm currently working on a security chat project</a>
+* <a href="https://github.com/Gravedd/FetchWrapper">Simplified fetch - javascript</a>
 * <a href="https://github.com/Gravedd/mycloud">Сloud storage</a>
 * <a href="https://github.com/Gravedd/Portfolio">My website - portfolio</a>
 
