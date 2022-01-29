@@ -14,8 +14,8 @@
 ![LARAVEL](https://img.shields.io/badge/-Laravel-black?style=for-the-bage&logo=laravel&logoColor=ff0303)
 ![JS](https://img.shields.io/badge/-JavaScript-black?style=for-the-bage&logo=javascript&logoColor=ffc803)
 ![SQL](https://img.shields.io/badge/-mySQL-black?style=for-the-bage&logo=mysql&logoColor=ff9a03)
-![HTML](https://img.shields.io/badge/-mySQL-black?style=for-the-bage&logo=html&logoColor=fa9600)
-![CSS](https://img.shields.io/badge/-mySQL-black?style=for-the-bage&logo=css&logoColor=0081fa)
+![HTML](https://img.shields.io/badge/-mySQL-black?style=for-the-bage&logo=html5&logoColor=fa9600)
+![CSS](https://img.shields.io/badge/-mySQL-black?style=for-the-bage&logo=css3&logoColor=0081fa)
 ![PhpStorm](https://img.shields.io/badge/-PhpStorm-black?style=for-the-bage&logo=phpstorm&logoColor=9124ff)
 ![Git](https://img.shields.io/badge/-Git-black?style=for-the-bage&logo=git&logoColor=ff303e)
 
