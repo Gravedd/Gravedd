@@ -1,13 +1,14 @@
 ![Header](https://github.com/Gravedd/Gravedd/blob/main/assets/1.jpg)
 
 ## I am a beginner web developer🔥
-#### 🌐[My site](http://ysenin.unaux.com/)
-### 🕦Recent projects
-* <a href="https://github.com/Gravedd/sChat">I'm currently working on a security chat project</a>
-* <a href="https://github.com/Gravedd/FetchWrapper">Simplified fetch - javascript</a>
-* <a href="https://github.com/Gravedd/mycloud">Сloud storage</a>
-* <a href="https://github.com/Gravedd/Portfolio">My website - portfolio</a>
+#### 🌐[My personal site](http://ysenin.org.ru/)
+### ⭐Best projects
+* <a href="https://github.com/Gravedd/seChat-v2">Chat with encryption</a>
+* <a href="https://github.com/Gravedd/Portfolio">My business card website</a>
 
+### ⌚Recent projects
+* <a href="https://github.com/Gravedd/mycloud">My first project on laravel framework</a>
+* <a href="https://github.com/Gravedd/FetchWrapper">FetchWrapper - simplified fetch function</a>
 
 ### 📖Languages and Tools
 ![php](https://img.shields.io/badge/-PHP-black?style=for-the-bage&logo=php&logoColor=2d8dfe)
