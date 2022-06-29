@@ -6,9 +6,6 @@
 * <a href="https://github.com/Gravedd/seChat-v2">Chat with encryption</a>
 * <a href="https://github.com/Gravedd/Portfolio">My business card website</a>
 
-### ⌚Recent projects
-* <a href="https://github.com/Gravedd/mycloud">My first project on laravel framework</a>
-* <a href="https://github.com/Gravedd/FetchWrapper">FetchWrapper - simplified fetch function</a>
 
 ### 📖Languages and Tools
 ![php](https://img.shields.io/badge/-PHP-black?style=for-the-bage&logo=php&logoColor=2d8dfe)
